@@ -1,14 +1,20 @@
 # Hey there I am Ratul aka [DevR](http://devr.netlify.app). Nice to meet you 👋
 
-I am a Full-Stack developer and a Problem Solver.
+### I am a Full-Stack developer and a Problem Solver
 
-<img src="./images/giphy.webp" alt="ratul-devr readme image" width="100%" />
+- My 2022 goal is to get into DevOps, Get better at front-end and Dive deep into Back-end
+- I love working on Full-Stack projects and building useful products
+- I love o learn and explore new technologies
+- My preferred tech stack is **MERN**
+- My favorite code-editors are [Vs Code](https://code.visualstudio.com/) and [NeoVim](https://neovim.io/)
+- I am open for **remote** and **freelance** works. If you want to checkout my portfolio, here is the [link](http://devr.netlify.app)
 
-- 💯 I am specialized in the MERN-Stack with Redux
-- 👾 I am Currently learning Angular
-- 🔥 I am currently working on [DevR-Commerce](https://github.com/ratul-devR/devr-commerce)
-- ✔ I am available for freelance and remote works
+### Connect with me
+
+- [Twitter](https://twitter.com/Ratul_devR)
+- [LinkedIn](https://www.linkedin.com/in/minhazur-rahman-ratul-407352211/)
+- Gmail: azammmgol@gmail.com
 
 ![Ratul-DevR's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratul-devr&show_icons=true&theme=radical)
 
-![Top Languages of Ratul](https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-devr&layout=compact)
+[![Most used programming languages of Ratul-DevR](https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-devr)](https://github.com/anuraghazra/github-readme-stats)
