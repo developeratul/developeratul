@@ -4,7 +4,7 @@
 
 - My 2022 goal is to get into DevOps, Get better at front-end and Dive deep into Back-end
 - I love working on Full-Stack projects and building useful products
-- I love o learn and explore new technologies
+- I love to learn and explore new technologies
 - My preferred tech stack is **MERN**
 - My favorite code-editors are [Vs Code](https://code.visualstudio.com/) and [NeoVim](https://neovim.io/)
 - I am open for **remote** and **freelance** works. If you want to checkout my portfolio, here is the [link](http://devr.netlify.app)
