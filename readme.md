@@ -10,9 +10,9 @@ Hi I am Ratul I am a 16 years old full-stack developer building production-level
 - 🤝  I'm open to collaborating on Open source projects, Freelance and remote paid works
 
 <a href="https://www.twitter.com/developeratul" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Ratul_devR?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/developeratul?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/developeratul" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ratul-devr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/developeratul?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -35,19 +35,19 @@ src="https://img.shields.io/github/followers/ratul-devr?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/ratuloss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/DevR#4151" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ratul-devr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ratul_devR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/ratuloss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/DevR#4151" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/developeratul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ratul_devR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ratul-devr"><img src="https://github-readme-stats.vercel.app/api?username=ratul-devr&show_icons=true&hide=&count_private=true&hide_border=true&theme=dracula" alt="ratul-devr's GitHub stats" /></a>
+<a href="http://www.github.com/developeratul"><img src="https://github-readme-stats.vercel.app/api?username=developeratulshow_icons=true&hide=&count_private=true&hide_border=true&theme=dracula" alt="developeratul's GitHub stats" /></a>
 
-<a href="http://www.github.com/ratul-devr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ratul-devr&hide_border=true&theme=dracula" /></a>
+<a href="http://www.github.com/developeratul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developeratul&hide_border=true&theme=dracula" /></a>
 
-<a href="http://www.github.com/ratul-devr"><img src="https://activity-graph.herokuapp.com/graph?username=ratul-devr&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=dracula" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/developeratul"><img src="https://activity-graph.herokuapp.com/graph?username=developeratul&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=dracula" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/ratul-devr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul-devr&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/developeratul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeratul&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
 
 ### Support Me
 
