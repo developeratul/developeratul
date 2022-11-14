@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/developeratul?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/developeratul"><img src="https://github-readme-stats.vercel.app/api?username=developeratulshow_icons=true&hide=&count_private=true&hide_border=true&theme=dracula" alt="developeratul's GitHub stats" /></a>
+<a href="http://www.github.com/developeratul"><img src="https://github-readme-stats.vercel.app/api?username=developeratul&show_icons=true&hide=&count_private=true&hide_border=true&theme=dracula" alt="developeratul's GitHub stats" /></a>
 
 <a href="http://www.github.com/developeratul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developeratul&hide_border=true&theme=dracula" /></a>
 
