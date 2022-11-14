@@ -9,9 +9,9 @@ Hi I am Ratul I am a 16 years old full-stack developer building production-level
 - ✉️  You can contact me at [azammmgol@gmail.com](mailto:azammmgol@gmail.com)
 - 🤝  I'm open to collaborating on Open source projects, Freelance and remote paid works
 
-<a href="https://www.twitter.com/Ratul_devR" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/developeratul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Ratul_devR?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/ratul-devr" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/developeratul" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ratul-devr?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
