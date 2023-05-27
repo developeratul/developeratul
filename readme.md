@@ -2,10 +2,10 @@
 
 ## Full Stack Developer
 
-Hi I am Ratul I am a 16 years old full-stack developer building production-level applications on the web.
+Hi I am Ratul a professional full-stack developer, freelancer and a writer.
 
 - 🌍  I'm based in Bangladesh
-- 🖥️  See my portfolio at [devr.netlify.app](http://devr.netlify.app)
+- 🖥️  See my portfolio at [developeratul.com](http://developeratul.com)
 - ✉️  You can contact me at [azammmgol@gmail.com](mailto:azammmgol@gmail.com)
 - 🤝  I'm open to collaborating on Open source projects, Freelance and remote paid works
 
@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/developeratul?logo=github&style=for
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/ratuloss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/DevR#4151" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/developeratul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ratul_devR" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/developeratul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/DevR#4151" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/developeratul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://developeratul.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/minhazur-rahman-ratul-407352211" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@azammmgol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/developeratul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -44,8 +44,6 @@ src="https://img.shields.io/github/followers/developeratul?logo=github&style=for
 <a href="http://www.github.com/developeratul"><img src="https://github-readme-stats.vercel.app/api?username=developeratul&show_icons=true&hide=&count_private=true&hide_border=true&theme=dracula" alt="developeratul's GitHub stats" /></a>
 
 <a href="http://www.github.com/developeratul"><img src="https://github-readme-streak-stats.herokuapp.com/?user=developeratul&hide_border=true&theme=dracula" /></a>
-
-<a href="http://www.github.com/developeratul"><img src="https://activity-graph.herokuapp.com/graph?username=developeratul&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=dracula" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/developeratul" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developeratul&hide_border=true&custom_title=Top%20%Languages&theme=dracula&layout=compact" alt="Top Languages" /></a>
 
